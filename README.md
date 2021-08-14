@@ -1,7 +1,7 @@
 # AgenDAV - CalDAV web client
 
 JodliDev: agendav/agendav does not seem to accept Pull requests anymore. And there are some really usefull ones...
-So I forked the project, merged #218 and fixed #1973.
+So I forked the project, merged https://github.com/agendav/agendav/pull/218 and fixed https://github.com/agendav/agendav/issues/256.
 
 
 
