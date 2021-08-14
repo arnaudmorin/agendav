@@ -1,5 +1,13 @@
 # AgenDAV - CalDAV web client
 
+JodliDev: agendav/agendav does not seem to accept Pull requests anymore. And there are some really usefull ones...
+So I forked the project, merged #218 and fixed #1973.
+
+
+
+This is a fork of agendav/agendav to inc
+
+
 [![Maintenance mode](https://img.shields.io/badge/maintenance_mode-%F0%9F%9A%A7-grey.svg?labelColor=orange)](https://github.com/agendav/agendav/blob/develop/CONTRIBUTING.md)
 [![Build Status](https://travis-ci.org/agendav/agendav.svg?branch=develop)](https://travis-ci.org/agendav/agendav)
 [![Docs](https://readthedocs.org/projects/agendav/badge/?version=develop)](https://agendav.readthedocs.io/en/develop/)
