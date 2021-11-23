@@ -16,8 +16,6 @@
 *.sqlite
 
 agendav-built*
-web/public/dist/css/*.css
-web/public/dist/js/*.js
 
 # Configuration file
 /web/config/settings*
